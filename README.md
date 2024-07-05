@@ -104,7 +104,7 @@ contract SchoolGradingSystem {
 2. Select the SchoolGradingSystem contract from the dropdown menu and click "Deploy."
 3. Once deployed, interact with the contract by calling functions like addGrade, getGrade, and didPass. Enter parameters and click "transact" to execute.
 
-## Authors
+## Author
 
 Adrian Oraya
 
